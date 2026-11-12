@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "../styles/legacy-portfolio.css";
+@import "../styles/theme-overrides.css";
+
+@theme {
+  --color-forest: #0b3028;
+  --color-emerald: #0b9363;
+  --color-mint: #edf8f1;
+  --color-surface: #ffffff;
+  --color-ink: #153a32;
+}
